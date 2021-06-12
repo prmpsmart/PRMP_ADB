@@ -1,6 +1,10 @@
 __pycache__
-
+.vscode
 *.pyc
+
+*.exe
+*.dll
+*.ico
 
 images
 needed
