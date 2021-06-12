@@ -1,6 +1,8 @@
+*.pyc
+
 images
 needed
 pulls
 pyd
 
-__pycache__
+adb/__pycache__
