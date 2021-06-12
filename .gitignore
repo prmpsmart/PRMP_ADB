@@ -2,3 +2,5 @@ images
 needed
 pulls
 pyd
+
+__pycache__
